@@ -1,0 +1,24 @@
+body{
+	background-color:#F7F9FC;
+	color: 	#575F7D;
+	font-weight: lighter;
+	font-family: 'Lora', serif;
+}
+h1{
+	color: #69B380;
+	font-family: Courier;
+}
+p{color: #575F7D;}
+/*Colours and font*/
+body{background-color:rgb(230,230,230);
+	color: rgb(50,50,50);
+	font-family: Helvetica;
+	font-size: 16px;
+}
+h2{
+	color: blue;
+	font-size: 24px;
+	font-family: courier;
+}
+a{color: #6B72E1}
+h1, h2, h3,h4,h5, h6{font-family: 'Roboto', sans-serif;}
